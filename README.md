@@ -1,4 +1,4 @@
-# Sistema de biblioteca
+# Sistema de Biblioteca
 
 Um simples projeto em Java feito para conclusão de uma avaliação da faculdade, permitindo a criação de livros, artigos e revistas. Contém funções de serialização, desserialização, busca e listagem de obras.
 
